@@ -1,0 +1,30 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 10px;
+    background-color: #2b2b30;
+    border-radius: 10px;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu__item {
+    margin: 20px 30px;
+    font-size: 22px;
+}
+
+.menu__link {
+    line-height: 120%;
+    text-decoration: none;
+    color: white;
+}
